@@ -1,8 +1,10 @@
-# Hi there, I'm Surraa 👋
+# 👋 Hello, I'm Surraa
 
 ### Computer Science Student | Aspiring Software Developer
 
-I'm a Computer Science student passionate about technology, software development, and exploring how things work.
+> I don't need destiny written in the stars — I write my own, even in the dust.
+
+
 
 - 🎓 Studying Computer Science at Jimma University.
 - 🌱 Currently learning C++, Java, HTML, CSS, and JavaScript.
