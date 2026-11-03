@@ -14,8 +14,10 @@
 
 ### 🛠️ Languages and Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode" />
+<h3 align="left">💻 Technologies I'm Exploring</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 ### 📌 Featured Project
