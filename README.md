@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Surraa 👋
 
-<!--
-**surraa25/surraa25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about technology, software development, and exploring how things work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Studying Computer Science at Jimma University.
+- 🌱 Currently learning C++, Java, HTML, CSS, and JavaScript.
+- 💻 Building projects and improving my programming skills.
+- 🚀 Interested in Artificial Intelligence, Robotics, and Aerospace Technology.
+- 🎯 Working toward becoming a skilled software developer.
+
+### 🛠️ Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode" />
+</p>
+
+### 📌 Featured Project
+
+- **My Portfolio:** [Pportfolio](https://github.com/surraa25/Pportfolio)
+
+---
+
+### 📫 Connect with me
+
+- GitHub: [@surraa25](https://github.com/surraa25)
+
+---
+
+⭐ *Always learning. Always building. Always exploring.*
