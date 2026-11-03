@@ -34,6 +34,13 @@
 
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=surraa25&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=surraa25&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 📫 Connect with me
 
