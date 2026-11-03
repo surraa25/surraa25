@@ -41,6 +41,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=surraa25&theme=tokyonight&hide_border=true" />
 </p>
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=surraa25&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
 
 ### 📫 Connect with me
 
