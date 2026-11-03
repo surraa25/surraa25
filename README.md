@@ -25,6 +25,14 @@
 - **My Portfolio:** [Pportfolio](https://github.com/surraa25/Pportfolio)
 
 ---
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=surraa25&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surraa25&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
 
 ### 📫 Connect with me
 
