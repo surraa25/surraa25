@@ -2,9 +2,9 @@
 
 ### Computer Science Student | Aspiring Software Developer
 
-> I don't need destiny written in the stars — I write my own, even in the dust.
-
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Developer;Exploring+AI+%26+Robotics;Always+Learning%2C+Always+Building" />
+</p>
 
 - 🎓 Studying Computer Science at Jimma University.
 - 🌱 Currently learning C++, Java, HTML, CSS, and JavaScript.
