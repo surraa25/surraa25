@@ -39,14 +39,6 @@
   </picture>
 </p>
 
-## 🚀 My Featured Project
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./glancecard/Pportfolio-dark.svg">
-    <img src="./glancecard/Pportfolio-light.svg" width="100%" alt="Pportfolio Statistics">
-  </picture>
-</p>
 
 ## 🔥 Contribution Streak
 
