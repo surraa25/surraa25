@@ -27,11 +27,19 @@
 ---
 ---
 
+
 ## 📊 GitHub Statistics
 
 <p align="center">
   <img src="./glancecard/profile-dark.svg#gh-dark-mode-only" width="100%" />
   <img src="./glancecard/profile-light.svg#gh-light-mode-only" width="100%" />
+</p>
+
+## 🚀 My Featured Project
+
+<p align="center">
+  <img src="./glancecard/Pportfolio-dark.svg#gh-dark-mode-only" width="100%" />
+  <img src="./glancecard/Pportfolio-light.svg#gh-light-mode-only" width="100%" />
 </p>
 
 ## 🚀 My Featured Project
