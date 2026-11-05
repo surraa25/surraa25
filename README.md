@@ -28,33 +28,31 @@
 ---
 
 
+---
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="./glancecard/profile-dark.svg#gh-dark-mode-only" width="100%" />
-  <img src="./glancecard/profile-light.svg#gh-light-mode-only" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./glancecard/profile-dark.svg">
+    <img src="./glancecard/profile-light.svg" width="100%" alt="GitHub Profile Statistics">
+  </picture>
 </p>
 
 ## 🚀 My Featured Project
 
 <p align="center">
-  <img src="./glancecard/Pportfolio-dark.svg#gh-dark-mode-only" width="100%" />
-  <img src="./glancecard/Pportfolio-light.svg#gh-light-mode-only" width="100%" />
-</p>
-
-## 🚀 My Featured Project
-
-<p align="center">
-  <img src="./glancecard/Pportfolio-dark.svg#gh-dark-mode-only" width="100%" />
-  <img src="./glancecard/Pportfolio-light.svg#gh-light-mode-only" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./glancecard/Pportfolio-dark.svg">
+    <img src="./glancecard/Pportfolio-light.svg" width="100%" alt="Pportfolio Statistics">
+  </picture>
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=surraa25&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=surraa25&theme=tokyonight&hide_border=true" alt="Contribution Streak">
 </p>
----
 
 
 
