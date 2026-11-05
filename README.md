@@ -14,8 +14,6 @@
 
 ### 🛠️ Languages and Tools
 
-<h3 align="left">💻 Technologies I'm Exploring</h3>
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,html,css,js,git,github,vscode&theme=dark" />
 </p>
@@ -23,10 +21,6 @@
 ### 📌 Featured Project
 
 - **My Portfolio:** [Pportfolio](https://github.com/surraa25/Pportfolio)
-
----
----
-
 
 ---
 
@@ -39,14 +33,7 @@
   </picture>
 </p>
 
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=surraa25&theme=tokyonight&hide_border=true" alt="Contribution Streak">
-</p>
-
-
+---
 
 ### 📫 Connect with me
 
